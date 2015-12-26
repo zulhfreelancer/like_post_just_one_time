@@ -1,0 +1,1 @@
+This Rails app is my answer to StackOverflow question here: http://stackoverflow.com/questions/34437956/ability-to-like-the-post-just-one-time
